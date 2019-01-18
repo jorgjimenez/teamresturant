@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 -------------------------------Menu---------------------------------
 
 
@@ -32,3 +33,10 @@ SPAGHETTI PASTA ALLA CARBONARA..............................$20     EUR
 
 Slow Cooker Lasagna.........................................$15.000 COP
 >>>>>>> Adding Lasagna Recipe and adding it into Menu's restaurant
+=======
+
+------------------------------Menu----------------------------------------
+
+
+Carbonara pasta    20 £
+>>>>>>> Plato y Menu
