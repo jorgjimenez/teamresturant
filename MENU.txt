@@ -1,4 +1,4 @@
--------------------------------Manu---------------------------------
+-------------------------------Menu---------------------------------
 
 
 ---------------Plato----------------          -----------Precio--------------
@@ -9,3 +9,11 @@
 -----large                                     16000$ COP
 -- PIZZA COMBO  ( PIZZA PERSONAL + SODA )   | 12000  COP
                                             |      
+MENU 
+
+RESTURANT THE DELICIUS ITALIAN 
+
+
+
+spaguetti pie             COMBO + SODA 16 OZ
+Personal size  10 euros    15 euros
