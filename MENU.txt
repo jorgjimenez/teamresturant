@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -------------------------------Menu---------------------------------
 
 
@@ -17,3 +18,17 @@ RESTURANT THE DELICIUS ITALIAN
 
 spaguetti pie             COMBO + SODA 16 OZ
 Personal size  10 euros    15 euros
+=======
+==============================MENU========================================
+Recipe														Price Currency
+--------------------------------------------------------------------------
+Spaghetti Pie...............................................$10		EUR
+
+Napolitan Pizza>	Personal................................$6.000	COP
+					Medium..................................$10.000 COP
+					Large...................................$16.000 COP
+
+SPAGHETTI PASTA ALLA CARBONARA..............................$20     EUR
+
+Slow Cooker Lasagna.........................................$15.000 COP
+>>>>>>> Adding Lasagna Recipe and adding it into Menu's restaurant
