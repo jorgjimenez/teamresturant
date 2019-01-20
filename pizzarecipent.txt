@@ -1,11 +1,18 @@
-Name 
+
 Napolitan Pizza 
 
-prize
-personal 6000$ cop 
-medium   10000$ cop
-large    16000$ COP
-ingredients
+-------------------------------------Description--------------------------------------
+
+Neapolitan pizza, or pizza Napoletana, is a type of pizza that originated in Naples, Italy. This style of pizza is prepared with simple and fresh ingredients: a basic dough, raw tomatoes, fresh mozzarella cheese, fresh basil, and olive oil. No fancy toppings are allowed!
+
+--------------------------------------Price-------------------------------------------
+
+Personal 6000$ cop 
+Medium   10000$ cop
+Large    16000$ COP
+
+------------------------------------Ingredients---------------------------------------
+
 For the Dough
 4 cups of flour 
 2 teaspoons salt
@@ -23,7 +30,8 @@ For the Toppings
 12 ounces fresh buffalo mozzarella 
 4 tablespoons extra-virgin olive oil 
 
-step to make it
+-------------------------------------Method------------------------------------------
+
 Make the Dough
 -Gather the ingredients.
 -Combine flour, salt, and yeast in the bowl of a stand mixer fitted with a dough hook attachment. Mix to combine.
