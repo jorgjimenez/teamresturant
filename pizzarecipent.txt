@@ -7,9 +7,11 @@ Neapolitan pizza, or pizza Napoletana, is a type of pizza that originated in Nap
 
 --------------------------------------Price-------------------------------------------
 
-Personal 6000$ cop 
-Medium   10000$ cop
-Large    16000$ COP
+Personal COP $9.000 
+Medium   COP $14.000
+Large    COP $19.000
+
+THIS ONE DOES NOT APPLIES FOR COMBO
 
 ------------------------------------Ingredients---------------------------------------
 
