@@ -40,10 +40,3 @@ of the cheese mixture. Repeat the layering of sauce, noodles, and cheese until a
 ingredients are used.
 
 4 - Cover, and cook on LOW setting for 4 to 6 hours.
-
-echo "# Test" >> README2.txt
-git init
-git add README2.txt
-git commit -m "first commit"
-git remote add origin https://github.com/juandavid9611/Test.git
-git push -u origin master
